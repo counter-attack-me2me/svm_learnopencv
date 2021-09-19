@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/czg/SVM/test_t",
+  "command": "/usr/bin/c++   -isystem /usr/include/opencv4  -Wall -g -Wextra -g   -std=gnu++17 -o CMakeFiles/svm.dir/src/train_digits.cpp.o -c /home/czg/SVM/test_t/src/train_digits.cpp",
+  "file": "/home/czg/SVM/test_t/src/train_digits.cpp"
+}
+]

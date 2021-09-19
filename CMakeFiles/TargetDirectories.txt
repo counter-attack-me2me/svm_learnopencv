@@ -1,0 +1,3 @@
+/home/czg/SVM/test_t/CMakeFiles/rebuild_cache.dir
+/home/czg/SVM/test_t/CMakeFiles/edit_cache.dir
+/home/czg/SVM/test_t/CMakeFiles/svm.dir
